@@ -1,0 +1,25 @@
+.products {
+    display: flex;
+    padding: 5px;
+}
+.product-image {
+    padding: 5px;
+}
+
+.product-name {
+    padding: 5px;
+    color: black;
+}
+.product-name h4 {
+    color: blue;
+    font-weight: 400;
+
+}
+.add-cart-btn{
+    width: 200px;
+    background-color: goldenrod;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
